@@ -10,3 +10,15 @@ C:\Users\turgu\source\repos\HepsiburadaCase\MarsRoverData\obj\Debug\net6.0\MarsR
 C:\Users\turgu\source\repos\HepsiburadaCase\MarsRoverData\obj\Debug\net6.0\MarsRoverData.dll
 C:\Users\turgu\source\repos\HepsiburadaCase\MarsRoverData\obj\Debug\net6.0\ref\MarsRoverData.dll
 C:\Users\turgu\source\repos\HepsiburadaCase\MarsRoverData\obj\Debug\net6.0\MarsRoverData.pdb
+C:\Users\turgu\Documents\GitHub\MarsRover\HepsiburadaCase\MarsRoverData\bin\Debug\net6.0\MarsRoverData.deps.json
+C:\Users\turgu\Documents\GitHub\MarsRover\HepsiburadaCase\MarsRoverData\bin\Debug\net6.0\MarsRoverData.dll
+C:\Users\turgu\Documents\GitHub\MarsRover\HepsiburadaCase\MarsRoverData\bin\Debug\net6.0\ref\MarsRoverData.dll
+C:\Users\turgu\Documents\GitHub\MarsRover\HepsiburadaCase\MarsRoverData\bin\Debug\net6.0\MarsRoverData.pdb
+C:\Users\turgu\Documents\GitHub\MarsRover\HepsiburadaCase\MarsRoverData\obj\Debug\net6.0\MarsRoverData.csproj.AssemblyReference.cache
+C:\Users\turgu\Documents\GitHub\MarsRover\HepsiburadaCase\MarsRoverData\obj\Debug\net6.0\MarsRoverData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turgu\Documents\GitHub\MarsRover\HepsiburadaCase\MarsRoverData\obj\Debug\net6.0\MarsRoverData.AssemblyInfoInputs.cache
+C:\Users\turgu\Documents\GitHub\MarsRover\HepsiburadaCase\MarsRoverData\obj\Debug\net6.0\MarsRoverData.AssemblyInfo.cs
+C:\Users\turgu\Documents\GitHub\MarsRover\HepsiburadaCase\MarsRoverData\obj\Debug\net6.0\MarsRoverData.csproj.CoreCompileInputs.cache
+C:\Users\turgu\Documents\GitHub\MarsRover\HepsiburadaCase\MarsRoverData\obj\Debug\net6.0\MarsRoverData.dll
+C:\Users\turgu\Documents\GitHub\MarsRover\HepsiburadaCase\MarsRoverData\obj\Debug\net6.0\ref\MarsRoverData.dll
+C:\Users\turgu\Documents\GitHub\MarsRover\HepsiburadaCase\MarsRoverData\obj\Debug\net6.0\MarsRoverData.pdb

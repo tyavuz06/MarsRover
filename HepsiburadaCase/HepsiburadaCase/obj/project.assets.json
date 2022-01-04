@@ -67,11 +67,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\turgu\\source\\repos\\HepsiburadaCase\\HepsiburadaCase\\MarsRover.csproj",
+      "projectUniqueName": "C:\\Users\\turgu\\Documents\\GitHub\\MarsRover\\HepsiburadaCase\\HepsiburadaCase\\MarsRover.csproj",
       "projectName": "MarsRover",
-      "projectPath": "C:\\Users\\turgu\\source\\repos\\HepsiburadaCase\\HepsiburadaCase\\MarsRover.csproj",
+      "projectPath": "C:\\Users\\turgu\\Documents\\GitHub\\MarsRover\\HepsiburadaCase\\HepsiburadaCase\\MarsRover.csproj",
       "packagesPath": "C:\\Users\\turgu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\turgu\\source\\repos\\HepsiburadaCase\\HepsiburadaCase\\obj\\",
+      "outputPath": "C:\\Users\\turgu\\Documents\\GitHub\\MarsRover\\HepsiburadaCase\\HepsiburadaCase\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\turgu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -88,11 +88,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\turgu\\source\\repos\\HepsiburadaCase\\Business\\MarsRoverBusiness.csproj": {
-              "projectPath": "C:\\Users\\turgu\\source\\repos\\HepsiburadaCase\\Business\\MarsRoverBusiness.csproj"
+            "C:\\Users\\turgu\\Documents\\GitHub\\MarsRover\\HepsiburadaCase\\Business\\MarsRoverBusiness.csproj": {
+              "projectPath": "C:\\Users\\turgu\\Documents\\GitHub\\MarsRover\\HepsiburadaCase\\Business\\MarsRoverBusiness.csproj"
             },
-            "C:\\Users\\turgu\\source\\repos\\HepsiburadaCase\\MarsRoverCommon\\MarsRoverCommon.csproj": {
-              "projectPath": "C:\\Users\\turgu\\source\\repos\\HepsiburadaCase\\MarsRoverCommon\\MarsRoverCommon.csproj"
+            "C:\\Users\\turgu\\Documents\\GitHub\\MarsRover\\HepsiburadaCase\\MarsRoverCommon\\MarsRoverCommon.csproj": {
+              "projectPath": "C:\\Users\\turgu\\Documents\\GitHub\\MarsRover\\HepsiburadaCase\\MarsRoverCommon\\MarsRoverCommon.csproj"
             }
           }
         }

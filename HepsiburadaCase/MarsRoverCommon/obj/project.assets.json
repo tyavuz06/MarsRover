@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\turgu\\source\\repos\\HepsiburadaCase\\MarsRoverCommon\\MarsRoverCommon.csproj",
+      "projectUniqueName": "C:\\Users\\turgu\\Documents\\GitHub\\MarsRover\\HepsiburadaCase\\MarsRoverCommon\\MarsRoverCommon.csproj",
       "projectName": "MarsRoverCommon",
-      "projectPath": "C:\\Users\\turgu\\source\\repos\\HepsiburadaCase\\MarsRoverCommon\\MarsRoverCommon.csproj",
+      "projectPath": "C:\\Users\\turgu\\Documents\\GitHub\\MarsRover\\HepsiburadaCase\\MarsRoverCommon\\MarsRoverCommon.csproj",
       "packagesPath": "C:\\Users\\turgu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\turgu\\source\\repos\\HepsiburadaCase\\MarsRoverCommon\\obj\\",
+      "outputPath": "C:\\Users\\turgu\\Documents\\GitHub\\MarsRover\\HepsiburadaCase\\MarsRoverCommon\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\turgu\\AppData\\Roaming\\NuGet\\NuGet.Config",

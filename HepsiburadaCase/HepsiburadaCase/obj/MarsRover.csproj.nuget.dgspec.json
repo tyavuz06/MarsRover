@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\turgu\\source\\repos\\HepsiburadaCase\\HepsiburadaCase\\MarsRover.csproj": {}
+    "C:\\Users\\turgu\\Documents\\GitHub\\MarsRover\\HepsiburadaCase\\HepsiburadaCase\\MarsRover.csproj": {}
   },
   "projects": {
-    "C:\\Users\\turgu\\source\\repos\\HepsiburadaCase\\Business\\MarsRoverBusiness.csproj": {
+    "C:\\Users\\turgu\\Documents\\GitHub\\MarsRover\\HepsiburadaCase\\Business\\MarsRoverBusiness.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\turgu\\source\\repos\\HepsiburadaCase\\Business\\MarsRoverBusiness.csproj",
+        "projectUniqueName": "C:\\Users\\turgu\\Documents\\GitHub\\MarsRover\\HepsiburadaCase\\Business\\MarsRoverBusiness.csproj",
         "projectName": "MarsRoverBusiness",
-        "projectPath": "C:\\Users\\turgu\\source\\repos\\HepsiburadaCase\\Business\\MarsRoverBusiness.csproj",
+        "projectPath": "C:\\Users\\turgu\\Documents\\GitHub\\MarsRover\\HepsiburadaCase\\Business\\MarsRoverBusiness.csproj",
         "packagesPath": "C:\\Users\\turgu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\turgu\\source\\repos\\HepsiburadaCase\\Business\\obj\\",
+        "outputPath": "C:\\Users\\turgu\\Documents\\GitHub\\MarsRover\\HepsiburadaCase\\Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\turgu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\turgu\\source\\repos\\HepsiburadaCase\\MarsRoverCommon\\MarsRoverCommon.csproj": {
-                "projectPath": "C:\\Users\\turgu\\source\\repos\\HepsiburadaCase\\MarsRoverCommon\\MarsRoverCommon.csproj"
+              "C:\\Users\\turgu\\Documents\\GitHub\\MarsRover\\HepsiburadaCase\\MarsRoverCommon\\MarsRoverCommon.csproj": {
+                "projectPath": "C:\\Users\\turgu\\Documents\\GitHub\\MarsRover\\HepsiburadaCase\\MarsRoverCommon\\MarsRoverCommon.csproj"
               },
-              "C:\\Users\\turgu\\source\\repos\\HepsiburadaCase\\MarsRoverData\\MarsRoverData.csproj": {
-                "projectPath": "C:\\Users\\turgu\\source\\repos\\HepsiburadaCase\\MarsRoverData\\MarsRoverData.csproj"
+              "C:\\Users\\turgu\\Documents\\GitHub\\MarsRover\\HepsiburadaCase\\MarsRoverData\\MarsRoverData.csproj": {
+                "projectPath": "C:\\Users\\turgu\\Documents\\GitHub\\MarsRover\\HepsiburadaCase\\MarsRoverData\\MarsRoverData.csproj"
               }
             }
           }
@@ -65,14 +65,14 @@
         }
       }
     },
-    "C:\\Users\\turgu\\source\\repos\\HepsiburadaCase\\HepsiburadaCase\\MarsRover.csproj": {
+    "C:\\Users\\turgu\\Documents\\GitHub\\MarsRover\\HepsiburadaCase\\HepsiburadaCase\\MarsRover.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\turgu\\source\\repos\\HepsiburadaCase\\HepsiburadaCase\\MarsRover.csproj",
+        "projectUniqueName": "C:\\Users\\turgu\\Documents\\GitHub\\MarsRover\\HepsiburadaCase\\HepsiburadaCase\\MarsRover.csproj",
         "projectName": "MarsRover",
-        "projectPath": "C:\\Users\\turgu\\source\\repos\\HepsiburadaCase\\HepsiburadaCase\\MarsRover.csproj",
+        "projectPath": "C:\\Users\\turgu\\Documents\\GitHub\\MarsRover\\HepsiburadaCase\\HepsiburadaCase\\MarsRover.csproj",
         "packagesPath": "C:\\Users\\turgu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\turgu\\source\\repos\\HepsiburadaCase\\HepsiburadaCase\\obj\\",
+        "outputPath": "C:\\Users\\turgu\\Documents\\GitHub\\MarsRover\\HepsiburadaCase\\HepsiburadaCase\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\turgu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -89,11 +89,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\turgu\\source\\repos\\HepsiburadaCase\\Business\\MarsRoverBusiness.csproj": {
-                "projectPath": "C:\\Users\\turgu\\source\\repos\\HepsiburadaCase\\Business\\MarsRoverBusiness.csproj"
+              "C:\\Users\\turgu\\Documents\\GitHub\\MarsRover\\HepsiburadaCase\\Business\\MarsRoverBusiness.csproj": {
+                "projectPath": "C:\\Users\\turgu\\Documents\\GitHub\\MarsRover\\HepsiburadaCase\\Business\\MarsRoverBusiness.csproj"
               },
-              "C:\\Users\\turgu\\source\\repos\\HepsiburadaCase\\MarsRoverCommon\\MarsRoverCommon.csproj": {
-                "projectPath": "C:\\Users\\turgu\\source\\repos\\HepsiburadaCase\\MarsRoverCommon\\MarsRoverCommon.csproj"
+              "C:\\Users\\turgu\\Documents\\GitHub\\MarsRover\\HepsiburadaCase\\MarsRoverCommon\\MarsRoverCommon.csproj": {
+                "projectPath": "C:\\Users\\turgu\\Documents\\GitHub\\MarsRover\\HepsiburadaCase\\MarsRoverCommon\\MarsRoverCommon.csproj"
               }
             }
           }
@@ -126,14 +126,14 @@
         }
       }
     },
-    "C:\\Users\\turgu\\source\\repos\\HepsiburadaCase\\MarsRoverCommon\\MarsRoverCommon.csproj": {
+    "C:\\Users\\turgu\\Documents\\GitHub\\MarsRover\\HepsiburadaCase\\MarsRoverCommon\\MarsRoverCommon.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\turgu\\source\\repos\\HepsiburadaCase\\MarsRoverCommon\\MarsRoverCommon.csproj",
+        "projectUniqueName": "C:\\Users\\turgu\\Documents\\GitHub\\MarsRover\\HepsiburadaCase\\MarsRoverCommon\\MarsRoverCommon.csproj",
         "projectName": "MarsRoverCommon",
-        "projectPath": "C:\\Users\\turgu\\source\\repos\\HepsiburadaCase\\MarsRoverCommon\\MarsRoverCommon.csproj",
+        "projectPath": "C:\\Users\\turgu\\Documents\\GitHub\\MarsRover\\HepsiburadaCase\\MarsRoverCommon\\MarsRoverCommon.csproj",
         "packagesPath": "C:\\Users\\turgu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\turgu\\source\\repos\\HepsiburadaCase\\MarsRoverCommon\\obj\\",
+        "outputPath": "C:\\Users\\turgu\\Documents\\GitHub\\MarsRover\\HepsiburadaCase\\MarsRoverCommon\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\turgu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -180,14 +180,14 @@
         }
       }
     },
-    "C:\\Users\\turgu\\source\\repos\\HepsiburadaCase\\MarsRoverData\\MarsRoverData.csproj": {
+    "C:\\Users\\turgu\\Documents\\GitHub\\MarsRover\\HepsiburadaCase\\MarsRoverData\\MarsRoverData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\turgu\\source\\repos\\HepsiburadaCase\\MarsRoverData\\MarsRoverData.csproj",
+        "projectUniqueName": "C:\\Users\\turgu\\Documents\\GitHub\\MarsRover\\HepsiburadaCase\\MarsRoverData\\MarsRoverData.csproj",
         "projectName": "MarsRoverData",
-        "projectPath": "C:\\Users\\turgu\\source\\repos\\HepsiburadaCase\\MarsRoverData\\MarsRoverData.csproj",
+        "projectPath": "C:\\Users\\turgu\\Documents\\GitHub\\MarsRover\\HepsiburadaCase\\MarsRoverData\\MarsRoverData.csproj",
         "packagesPath": "C:\\Users\\turgu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\turgu\\source\\repos\\HepsiburadaCase\\MarsRoverData\\obj\\",
+        "outputPath": "C:\\Users\\turgu\\Documents\\GitHub\\MarsRover\\HepsiburadaCase\\MarsRoverData\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\turgu\\AppData\\Roaming\\NuGet\\NuGet.Config",
