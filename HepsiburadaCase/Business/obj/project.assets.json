@@ -1,0 +1,109 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "MarsRoverCommon/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/MarsRoverCommon.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MarsRoverCommon.dll": {}
+        }
+      },
+      "MarsRoverData/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/MarsRoverData.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MarsRoverData.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MarsRoverCommon/1.0.0": {
+      "type": "project",
+      "path": "../MarsRoverCommon/MarsRoverCommon.csproj",
+      "msbuildProject": "../MarsRoverCommon/MarsRoverCommon.csproj"
+    },
+    "MarsRoverData/1.0.0": {
+      "type": "project",
+      "path": "../MarsRoverData/MarsRoverData.csproj",
+      "msbuildProject": "../MarsRoverData/MarsRoverData.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "MarsRoverCommon >= 1.0.0",
+      "MarsRoverData >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\turgu\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\turgu\\source\\repos\\HepsiburadaCase\\Business\\MarsRoverBusiness.csproj",
+      "projectName": "MarsRoverBusiness",
+      "projectPath": "C:\\Users\\turgu\\source\\repos\\HepsiburadaCase\\Business\\MarsRoverBusiness.csproj",
+      "packagesPath": "C:\\Users\\turgu\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\turgu\\source\\repos\\HepsiburadaCase\\Business\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\turgu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\turgu\\source\\repos\\HepsiburadaCase\\MarsRoverCommon\\MarsRoverCommon.csproj": {
+              "projectPath": "C:\\Users\\turgu\\source\\repos\\HepsiburadaCase\\MarsRoverCommon\\MarsRoverCommon.csproj"
+            },
+            "C:\\Users\\turgu\\source\\repos\\HepsiburadaCase\\MarsRoverData\\MarsRoverData.csproj": {
+              "projectPath": "C:\\Users\\turgu\\source\\repos\\HepsiburadaCase\\MarsRoverData\\MarsRoverData.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

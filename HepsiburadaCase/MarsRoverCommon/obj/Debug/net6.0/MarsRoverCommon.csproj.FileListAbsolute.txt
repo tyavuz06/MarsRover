@@ -1,0 +1,12 @@
+C:\Users\turgu\source\repos\HepsiburadaCase\MarsRoverCommon\bin\Debug\net6.0\MarsRoverCommon.deps.json
+C:\Users\turgu\source\repos\HepsiburadaCase\MarsRoverCommon\bin\Debug\net6.0\MarsRoverCommon.dll
+C:\Users\turgu\source\repos\HepsiburadaCase\MarsRoverCommon\bin\Debug\net6.0\ref\MarsRoverCommon.dll
+C:\Users\turgu\source\repos\HepsiburadaCase\MarsRoverCommon\bin\Debug\net6.0\MarsRoverCommon.pdb
+C:\Users\turgu\source\repos\HepsiburadaCase\MarsRoverCommon\obj\Debug\net6.0\MarsRoverCommon.csproj.AssemblyReference.cache
+C:\Users\turgu\source\repos\HepsiburadaCase\MarsRoverCommon\obj\Debug\net6.0\MarsRoverCommon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turgu\source\repos\HepsiburadaCase\MarsRoverCommon\obj\Debug\net6.0\MarsRoverCommon.AssemblyInfoInputs.cache
+C:\Users\turgu\source\repos\HepsiburadaCase\MarsRoverCommon\obj\Debug\net6.0\MarsRoverCommon.AssemblyInfo.cs
+C:\Users\turgu\source\repos\HepsiburadaCase\MarsRoverCommon\obj\Debug\net6.0\MarsRoverCommon.csproj.CoreCompileInputs.cache
+C:\Users\turgu\source\repos\HepsiburadaCase\MarsRoverCommon\obj\Debug\net6.0\MarsRoverCommon.dll
+C:\Users\turgu\source\repos\HepsiburadaCase\MarsRoverCommon\obj\Debug\net6.0\ref\MarsRoverCommon.dll
+C:\Users\turgu\source\repos\HepsiburadaCase\MarsRoverCommon\obj\Debug\net6.0\MarsRoverCommon.pdb

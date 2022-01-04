@@ -1,0 +1,17 @@
+C:\Users\turgu\source\repos\HepsiburadaCase\Business\bin\Debug\net6.0\MarsRoverBusiness.deps.json
+C:\Users\turgu\source\repos\HepsiburadaCase\Business\bin\Debug\net6.0\MarsRoverBusiness.dll
+C:\Users\turgu\source\repos\HepsiburadaCase\Business\bin\Debug\net6.0\ref\MarsRoverBusiness.dll
+C:\Users\turgu\source\repos\HepsiburadaCase\Business\bin\Debug\net6.0\MarsRoverBusiness.pdb
+C:\Users\turgu\source\repos\HepsiburadaCase\Business\bin\Debug\net6.0\MarsRoverData.dll
+C:\Users\turgu\source\repos\HepsiburadaCase\Business\bin\Debug\net6.0\MarsRoverData.pdb
+C:\Users\turgu\source\repos\HepsiburadaCase\Business\obj\Debug\net6.0\MarsRoverBusiness.csproj.AssemblyReference.cache
+C:\Users\turgu\source\repos\HepsiburadaCase\Business\obj\Debug\net6.0\MarsRoverBusiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turgu\source\repos\HepsiburadaCase\Business\obj\Debug\net6.0\MarsRoverBusiness.AssemblyInfoInputs.cache
+C:\Users\turgu\source\repos\HepsiburadaCase\Business\obj\Debug\net6.0\MarsRoverBusiness.AssemblyInfo.cs
+C:\Users\turgu\source\repos\HepsiburadaCase\Business\obj\Debug\net6.0\MarsRoverBusiness.csproj.CoreCompileInputs.cache
+C:\Users\turgu\source\repos\HepsiburadaCase\Business\obj\Debug\net6.0\MarsRoverBusiness.csproj.CopyComplete
+C:\Users\turgu\source\repos\HepsiburadaCase\Business\obj\Debug\net6.0\MarsRoverBusiness.dll
+C:\Users\turgu\source\repos\HepsiburadaCase\Business\obj\Debug\net6.0\ref\MarsRoverBusiness.dll
+C:\Users\turgu\source\repos\HepsiburadaCase\Business\obj\Debug\net6.0\MarsRoverBusiness.pdb
+C:\Users\turgu\source\repos\HepsiburadaCase\Business\bin\Debug\net6.0\MarsRoverCommon.dll
+C:\Users\turgu\source\repos\HepsiburadaCase\Business\bin\Debug\net6.0\MarsRoverCommon.pdb
