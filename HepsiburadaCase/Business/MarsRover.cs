@@ -24,7 +24,7 @@ namespace MarsRoverBusiness
 
         public int StartX { get { return _startX; } set { _startX = value; } }
         public int StartY { get { return _startY; } set { _startY = value; } }
-        public EDirect.Direction startDirection { get { return _startDirection; } set { value = _startDirection; } }
+        public EDirect.Direction StartDirection { get { return _startDirection; } set { value = _startDirection; } }
 
         public int MaxX { get { return _maxX; } set { _maxX = value; } }
         public int MaxY { get { return _maxY; } set { _maxY = value; } }
