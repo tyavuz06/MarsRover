@@ -15,49 +15,49 @@ namespace MarsRoverBusiness
 
         public MarsRover(int sX, int sY, EDirect.Direction sD, int mX, int mY)
         {
-            startX = sX;
-            startY = sY;
+            StartX = sX;
+            StartY = sY;
             _startDirection = sD;
-            maxX = mX;
-            maxY = mY;
+            MaxX = mX;
+            MaxY = mY;
         }
 
-        public int startX { get { return _startX; } set { _startX = value; } }
-        public int startY { get { return _startY; } set { _startY = value; } }
+        public int StartX { get { return _startX; } set { _startX = value; } }
+        public int StartY { get { return _startY; } set { _startY = value; } }
         public EDirect.Direction startDirection { get { return _startDirection; } set { value = _startDirection; } }
 
-        public int maxX { get { return _maxX; } set { _maxX = value; } }
-        public int maxY { get { return _maxY; } set { _maxY = value; } }
+        public int MaxX { get { return _maxX; } set { _maxX = value; } }
+        public int MaxY { get { return _maxY; } set { _maxY = value; } }
         public bool CantMove { get; set; }
 
         public bool Move()
         {
             if (startDirection == EDirect.Direction.N)
             {
-                if (startY + 1 > maxY)
+                if (StartY + 1 > MaxY)
                     return false;
-                startY++;
+                StartY++;
             }
 
             if (startDirection == EDirect.Direction.W)
             {
-                if (startX + 1 > maxX)
+                if (StartX + 1 > MaxX)
                     return false;
-                startX++;
+                StartX++;
             }
 
             if (startDirection == EDirect.Direction.E)
             {
-                if (startX -1 < 0)
+                if (StartX -1 < 0)
                     return false;
-                startX--;
+                StartX--;
             }
 
             if (startDirection == EDirect.Direction.S)
             {
-                if (startY -1 < 0)
+                if (StartY -1 < 0)
                     return false;
-                startY--;
+                StartY--;
             }
 
             return true;
