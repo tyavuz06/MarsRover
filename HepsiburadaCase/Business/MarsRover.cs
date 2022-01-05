@@ -30,6 +30,10 @@ namespace MarsRoverBusiness
         public int MaxY { get { return _maxY; } set { _maxY = value; } }
         public bool CantMove { get; set; }
 
+        /// <summary>
+        /// Move method of Rover's
+        /// </summary>
+        /// <returns>bool</returns>
         public bool Move()
         {
             if (startDirection == EDirect.Direction.N)
@@ -63,6 +67,10 @@ namespace MarsRoverBusiness
             return true;
         }
 
+        /// <summary>
+        /// Turn Method of Rover's
+        /// </summary>
+        /// <param name="direction"></param>
         public void Turn(string direction)
         {
             switch (direction)

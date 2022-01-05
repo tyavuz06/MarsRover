@@ -24,6 +24,9 @@ foreach (var item in roverList)
     WriteLastCoordinates(item);
 }
 
+/// <summary>
+/// execute entered commands for rover
+/// </summary>
 void ReadDirectionInput()
 {
     Console.WriteLine("Enter directions for Rover");
@@ -46,6 +49,9 @@ void ReadDirectionInput()
     }
 }
 
+/// <summary>
+/// Reads rover's position information.
+/// </summary>
 void ReadInput()
 {
     Console.WriteLine("Enter the Rover's position: (enter the -1 to exit)");
@@ -92,6 +98,9 @@ void ReadInput()
     roverList.Add(rover);
 }
 
+/// <summary>
+/// Reads plateau coordinates
+/// </summary>
 void GetCoordinatesOfPlateau()
 {
     Console.WriteLine("Enter Upper-right coordinates of the plateau:");
@@ -117,6 +126,9 @@ void GetCoordinatesOfPlateau()
     }
 }
 
+/// <summary>
+/// prints to console rovers' positions
+/// </summary>
 void WriteLastCoordinates(MarsRover rover)
 {
     if (rover.CantMove)
