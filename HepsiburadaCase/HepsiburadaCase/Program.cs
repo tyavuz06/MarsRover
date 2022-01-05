@@ -132,9 +132,9 @@ void GetCoordinatesOfPlateau()
 void WriteLastCoordinates(MarsRover rover)
 {
     if (rover.CantMove)
-        Console.WriteLine( String.Format("Cannot Move! Last positon was.. {0} {1} {2}", rover.StartX.ToString(), rover.StartY.ToString(), rover.startDirection.ToString()));
+        Console.WriteLine( String.Format("Cannot Move! Last positon was.. {0} {1} {2}", rover.StartX.ToString(), rover.StartY.ToString(), rover.StartDirection.ToString()));
     else
-        Console.WriteLine(String.Format("Coordinates: ({0},{1}), direction:{2}", rover.StartX.ToString(), rover.StartY.ToString(), rover.startDirection.ToString()));
+        Console.WriteLine(String.Format("Coordinates: ({0},{1}), direction:{2}", rover.StartX.ToString(), rover.StartY.ToString(), rover.StartDirection.ToString()));
 }
 
 

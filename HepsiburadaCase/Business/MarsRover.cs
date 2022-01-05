@@ -36,28 +36,28 @@ namespace MarsRoverBusiness
         /// <returns>bool</returns>
         public bool Move()
         {
-            if (startDirection == EDirect.Direction.N)
+            if (StartDirection == EDirect.Direction.N)
             {
                 if (StartY + 1 > MaxY)
                     return false;
                 StartY++;
             }
 
-            if (startDirection == EDirect.Direction.W)
+            if (StartDirection == EDirect.Direction.W)
             {
                 if (StartX + 1 > MaxX)
                     return false;
                 StartX++;
             }
 
-            if (startDirection == EDirect.Direction.E)
+            if (StartDirection == EDirect.Direction.E)
             {
                 if (StartX -1 < 0)
                     return false;
                 StartX--;
             }
 
-            if (startDirection == EDirect.Direction.S)
+            if (StartDirection == EDirect.Direction.S)
             {
                 if (StartY -1 < 0)
                     return false;
@@ -76,7 +76,7 @@ namespace MarsRoverBusiness
             switch (direction)
             {
                 case "R":
-                    switch (startDirection)
+                    switch (StartDirection)
                     {
                         case EDirect.Direction.N:
                             _startDirection = EDirect.Direction.E;
@@ -93,7 +93,7 @@ namespace MarsRoverBusiness
                     }
                     break;
                 case "L":
-                    switch (startDirection)
+                    switch (StartDirection)
                     {
                         case EDirect.Direction.N:
                             _startDirection = EDirect.Direction.W;
